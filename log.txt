@@ -1,4 +1,12 @@
 
+Spotify search... Movie: Death Of A Bachelor, Artist: Panic! At The Disco, url: https://open.spotify.com/track/1BECwm5qkaBwlbfo4kpYx8, Album: Death Of A Bachelor
+
+Spotify search... Movie: The Sign, Artist: Ace of Base, url: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE, Album: The Sign (US Album) [Remastered]
+
+OMDB search... Movie: Ant-Man, Year: 2015, IMDB Rating: 7.3/10, Rotten Tomatoes Rating: 82%Country: USALanguage: EnglishPlot: Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.Actors: Paul Rudd, Michael Douglas, Evangeline Lilly, Corey Stoll
+
+OMDB search... Movie: Mr. Nobody, Year: 2009, IMDB Rating: 7.9/10, Rotten Tomatoes Rating: 66%Country: Belgium, Germany, Canada, France, USA, UKLanguage: English, MohawkPlot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
 Twitter search... Date created: Thu Feb 15 04:03:41 +0000 2018, Tweet: RT @NASAVoyager: We’ve got the ultimate long distance relationship, Earth. 
 
 I took this picture of you on #ValentinesDay 1990, when I was…

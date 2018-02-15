@@ -51,6 +51,8 @@ spotify.search({ type: 'track', query: userRequest, limit: 1 }, function(err, da
 
 	if (userInput.length == 3) {
 		var movieName = "Mr+Nobody";
+		console.log("If you haven't watched 'Mr. Nobody', then you should: http://www.imdb.com/title/tt0485947/");
+		console.log("It's on Netflix!");
 		// console.log("Movie" + movieName);
 	} else {
 		var movieName = "";
